@@ -44,8 +44,3 @@ API Date do JavaScript
 PC:
 ![image](https://github.com/user-attachments/assets/f6436c54-83e4-4d86-9d2d-ef6054c692f7)
 
-MOBILE:
-![MOBILE](https://github.com/user-attachments/assets/dcf5ff5f-2477-49a6-8dd6-9a97f9cd0c8d)
-
-
-
